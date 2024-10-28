@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "menuitems",
+  "info": {
+    "singularName": "menuitem",
+    "pluralName": "menuitems",
+    "displayName": "Menuitem",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Label": {
+      "type": "string"
+    },
+    "URL": {
+      "type": "string"
+    },
+    "Sorszam": {
+      "type": "integer"
+    }
+  }
+}
